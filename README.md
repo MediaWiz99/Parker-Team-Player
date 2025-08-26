@@ -1,2 +1,2 @@
 # Parker-Team-Player
-Team Style
+Understanding your Team Style
